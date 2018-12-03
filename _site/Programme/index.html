@@ -33,17 +33,35 @@
     <h1 class="post-title cover-centered">Programme</h1>
 </div>
 </header>
-<!-- 
-<div class="cover-container">
-    <img src="../assets/montreal.jpg" class="cover"/>
-    <h1 class="post-title cover-centered">Programme</h1>
-</div> --><!--     
-    <div class="cover-container">
-        <img src="../assets/montreal.jpg" class="cover"/>
-        <h1 class="post-title">Programme</h1>
-    </div> -->
-    
-    <main class="page-content" aria-label="Content">
+
+
+<style>
+
+/* Custom CSS */
+
+  .cover {
+    object-fit: cover;
+    height: 300px;
+    width: 100%;
+    filter: blur(1px);
+  }
+
+  /* Container holding the image and the text */
+  .cover-container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+  /* Centered text */
+  .cover-centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+</style><main class="page-content" aria-label="Content">
       <div class="wrapper">
         <article class="post">
 

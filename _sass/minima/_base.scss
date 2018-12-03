@@ -8,35 +8,6 @@ dl, dd, ol, ul, figure {
   padding: 0;
 }
 
-/* Custom CSS */
-
-.cover {
-  object-fit: cover;
-  height: 300px;
-  width: 100%;
-  filter: blur(1px);
-  // // Browser Specific
-  // -webkit-filter: blur(5px);
-  // -moz-filter: blur(5px);
-  // -o-filter: blur(5px);
-  // -ms-filter: blur(5px);
-}
-
-/* Container holding the image and the text */
-.cover-container {
-  position: relative;
-  text-align: center;
-  color: white;
-}
-
-/* Centered text */
-.cover-centered {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-
 /**
  * Basic styling
  */
