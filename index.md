@@ -3,11 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-description: "2nd Workshop on Cyber-Physical Systems Security and Resilience (CPS-SR)"
-header-img: "assets/montreal.jpg"
 
 ---
 
+<h1 class="post-title">2nd Workshop on Cyber-Physical Systems Security and Resilience (CPS-SR)</h1>
 
 ## Workshop Scope
 Cyber-physical systems underpin many of the critical infrastructures that our society depends on. As a consequence, they have very high reliability and availability requirements. Recently, there have been a number of high-profile cyber-attacks to critical infrastructures, which include cyber-physical systems, that have resulted in major disruptions in the physical domain. These threats include a sophisticated cyber-attack component, whose aim is to manipulate the control behavior of a target system.
