@@ -43,7 +43,7 @@ Workshop date: 10th April, 2o18
 <br/>
 
 
-The CPS-SR 2018 Workshop is supported by the Swedish Civil Contingencies Agency through the <a href="https://www.kth.se/ac/research/secure-control-systems/cerces/cerces-center-for-resilient-critical-infrastructures-1.609722" target="_blank">CERCES project</a> and the ERA-Net Smart Grid Plus <a href="http://www.largo-project.eu/" target="_blank">LarGo! project.</a> 
+The CPS-SR 2019 Workshop is supported by the Swedish Civil Contingencies Agency through the <a href="https://www.kth.se/ac/research/secure-control-systems/cerces/cerces-center-for-resilient-critical-infrastructures-1.609722" target="_blank">CERCES project</a> and the ERA-Net Smart Grid Plus <a href="http://www.largo-project.eu/" target="_blank">LarGo! project.</a> 
 
 ![LarGo](/assets/LarGo.jpg)
 ![CERCES](/assets/cerces.png)
