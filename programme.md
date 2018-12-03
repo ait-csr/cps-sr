@@ -7,3 +7,5 @@ title: Programme
 permalink: /programme/
 ---
 
+
+The workshop will take place on April 15-18, 2019.

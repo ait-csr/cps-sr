@@ -2,9 +2,10 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: default
+layout: page
 title: Organization
 permalink: /organization/
+
 ---
 
 # Workshop Co-organizers
@@ -19,3 +20,5 @@ For questions about the workshop, please feel free to contact the organizers.
 # Publicity Chairs
 Ewa Piatkowska, AIT Austrian Institute of Technology, Austria
 Mislav Findrik, AIT Austrian Institute of Technology, Austria
+
+
