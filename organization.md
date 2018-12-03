@@ -18,7 +18,6 @@ For questions about the workshop, please feel free to contact the organizers.
 
 
 # Publicity Chairs
-Ewa Piatkowska, AIT Austrian Institute of Technology, Austria
-Mislav Findrik, AIT Austrian Institute of Technology, Austria
+- Ewa Piatkowska, AIT Austrian Institute of Technology, Austria
 
 
