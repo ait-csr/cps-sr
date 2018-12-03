@@ -4,6 +4,8 @@
 
 layout: page
 title: Organization
+description: "2nd Workshop on Cyber-Physical Systems Security and Resilience (CPS-SR)"
+header-img: "assets/montreal.jpg"
 ---
 
 # Workshop Co-organizers
