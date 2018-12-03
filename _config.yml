@@ -17,7 +17,7 @@ title: CPS-SR
 # email: your-email@example.com
 # description: >- # this means to ignore newlines until "baseurl:"
 #   2nd Workshop on Cyber-Physical Systems Security and Resilience (CPS-SR)
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "cps-sr" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  ait-csr
