@@ -9,15 +9,14 @@ permalink: /organization/
 ---
 
 # Workshop Co-organizers
-- Henrik Sandberg, KTH Royal Institute of Technology, Sweden
-- Dejan Ničković, AIT Austrian Institute of Technology, Austria
-- Paul Smith, AIT Austrian Institute of Technology, Austria
+* Henrik Sandberg, KTH Royal Institute of Technology, Sweden
+* Dejan Ničković, AIT Austrian Institute of Technology, Austria
+* Paul Smith, AIT Austrian Institute of Technology, Austria
+
 For questions about the workshop, please feel free to contact the organizers.
 
 # Technical Program Committee
 
 
 # Publicity Chairs
-- Ewa Piatkowska, AIT Austrian Institute of Technology, Austria
-
-
+- Agron Bajraktari, AIT Austrian Institute of Technology, Austria

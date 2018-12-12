@@ -7,5 +7,4 @@ title: Programme
 permalink: /programme/
 ---
 
-
-The workshop will take place on April 15-18, 2019.
+The full-day workshop will take place on 15th April, 2019. In due course, the workshop programme will be made available here.

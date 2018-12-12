@@ -25,7 +25,9 @@ The workshop program will consist of invited presentations on hot topics in cybe
 
 ## Important Dates
 **Paper submission deadline:** 1st February 2019
+
 **Notification of acceptance:** 22nd February 2019
+
 **Workshop date:** 15th April 2019
 
 <br/>

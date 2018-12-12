@@ -7,27 +7,29 @@ title: Call for Papers
 permalink: /papers/
 ---
 
-# Deadline Policy
-The CPS Week by-laws define the following firm deadline policy:
+# Workshop Scope
+Cyber-physical systems underpin many of the critical infrastructures that our society depends on. As a consequence, they have very high reliability and availability requirements. Recently, there have been a number of high-profile cyber-attacks to critical infrastructures, which include cyber-physical systems, that have resulted in major disruptions in the physical domain. These threats include a sophisticated cyber-attack component, whose aim is to manipulate the control behaviour of a target system.
 
-All CPS Week collocated conferences have the same paper registration and final submission deadlines.
-Once published, these deadlines are firm without extension under normal conditions.
-Due to major natural disasters or wide-spread unpreventable events, and after agreed by all conferences, an extension may be given upon request. In this situation, the following procedure should be followed:
-The previously announced deadlines should not be changed.
-The possibility for extension and its legitimate causes should be published on the conference websites.
-The authors who qualify for extension must register the paper(s) by the normal paper registration deadline.
-The authors should contact the TPC chairs directly before the paper registration deadline and state the unpreventable reason for the request;
-Once permitted by the TPC chair, the authors should submit the paper(s) directly to the TPC chairs by the extended deadline;
-The typical extension is one week.
- 
+To address these threats, a multi-disciplinary approach is necessary that draws on and integrates research findings from cyber security, resilient control, formal methods, human factors, and applied knowledge of the cyber-physical system under attack, for example. The aim of the workshop is to bring together leading researchers in disciplines that are related to ensuring the *security* and *resilience* of cyber-physical systems, to discuss hot topics and research directions that will lead to (reusable) solutions that are applicable to numerous forms of cyber-physical system.
 
-# CPS-IoT Week 2019 Calls for Papers
-- The firm deadline is October 17, 2018, AOE (firm):
-- Given the recent natural-disasters, procedures for point 3 of the deadline policy are in place;
-- For submission guidelines related to each conference please visit:
-    - HSCC
-    - ICCPS
-    - IPSN
-    - RTAS
-    - IoTDI
- 
+Topics of interest include, but are not limited to, the following aspects of CPS security and resilience:
+
+* Security and resilience measurement
+* Resilient control
+* Hyperproperties in CPS
+* Cyber-physical intrusion detection
+* New forms of attack to CPS
+* Human performance
+* Secure and resilient CPS architectures
+* Applications of machine learning and artificial intelligence
+* Digital twins and security
+
+# Paper Submissions
+Papers are encouraged that present early research or position statements, which preferably include initial results, or mature (previously published) findings that could benefit from being discussed in a workshop setting. Submitted papers, written in English, should not exceed four pages in length. Please follow the ACM conference format guidelines and submit your work via the HotCRP submission system (link to follow). Please note the papers will not be published in a proceedings but will be made available via this website.
+
+# Important Dates
+**Paper submission deadline:** 1st February 2019
+
+**Notification of acceptance:** 22nd February 2019
+
+**Workshop date:** 15th April 2019
