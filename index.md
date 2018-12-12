@@ -22,19 +22,14 @@ The workshop programme will consist of invited presentations on hot topics in cy
 <br/>
 
 ## News
-05-03-18: Programme outline is available!
-
-02-02-18: Paper submission deadline has been extended to 9th Feb!
-
-11-01-18: The Workshop CFP is now available!
-
-03-01-18: Organization committee finalized!
+12-12-18: Workshop website is available!
 
 ## Important Dates
-Early-bird Registration: 16th March, 2018
+Paper submission deadline: 1st February 2019
 
-Workshop date: 10th April, 2o18
+Notification of acceptance: 22nd February 2019
 
+Workshop date: 15th April 2019
 
 <br/>
 
@@ -43,7 +38,7 @@ Workshop date: 10th April, 2o18
 <br/>
 
 
-The CPS-SR 2019 Workshop is supported by the Swedish Civil Contingencies Agency through the <a href="https://www.kth.se/ac/research/secure-control-systems/cerces/cerces-center-for-resilient-critical-infrastructures-1.609722" target="_blank">CERCES project</a> and the ERA-Net Smart Grid Plus <a href="http://www.largo-project.eu/" target="_blank">LarGo! project.</a> 
+The CPS-SR 2019 Workshop is supported by the Swedish Civil Contingencies Agency through the <a href="https://www.kth.se/ac/research/secure-control-systems/cerces/cerces-center-for-resilient-critical-infrastructures-1.609722" target="_blank">CERCES project</a> and the ERA-Net Smart Grid Plus <a href="http://www.largo-project.eu/" target="_blank">LarGo! project.</a>
 
 ![LarGo](/assets/LarGo.jpg)
 ![CERCES](/assets/cerces.png)
