@@ -6,10 +6,10 @@ layout: page
 title: ""
 ---
 
-<div align="center" font-size="large">
+<div align="center">
 15th April 2019, Montreal Canada
 <br/>
-held in conjunction with CPS-IoT Week 2019, 15th - 19th April 2019
+held in conjunction with [CPS-IoT Week 2019](http://cpslab.cs.mcgill.ca/cpsiotweek2019/), 15th - 19th April 2019
 </div>
 
 ## Workshop Scope
