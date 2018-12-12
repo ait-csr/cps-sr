@@ -6,6 +6,12 @@ layout: page
 title: ""
 ---
 
+<div align="center">
+15th April 2019, Montreal Canada
+
+held in conjunction with CPS-IoT Week 2019, 15th - 19th April 2019
+</div>
+
 ## Workshop Scope
 Cyber-physical systems underpin many of the critical infrastructures that our society depends on. As a consequence, they have very high reliability and availability requirements. Recently, there have been a number of high-profile cyber-attacks to critical infrastructures, which include cyber-physical systems, that have resulted in major disruptions in the physical domain. These threats include a sophisticated cyber-attack component, whose aim is to manipulate the control behaviour of a target system.
 
