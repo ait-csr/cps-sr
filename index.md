@@ -6,9 +6,9 @@ layout: page
 title: ""
 ---
 
-<div align="center">
+<div align="center" font-size="large">
 15th April 2019, Montreal Canada
-
+<br/>
 held in conjunction with CPS-IoT Week 2019, 15th - 19th April 2019
 </div>
 
