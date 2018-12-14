@@ -347,8 +347,7 @@ table {
       font-size: 36px; } }
 
 .post-content {
-  margin-bottom: 30px;
-  text-align: justify;}
+  margin-bottom: 30px;}
   .post-content h2 {
     font-size: 32px; }
     @media screen and (max-width: 800px) {
