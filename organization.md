@@ -24,4 +24,4 @@ For questions about the workshop, please feel free to [contact the organizers](m
 * [Niamh O'Mahony, Dell EMC Research](https://www.linkedin.com/in/nmomahony/), Ireland
 
 # Website
-* Agron Bajraktari, AIT Austrian Institute of Technology, Austria
+* [Agron Bajraktari, AIT Austrian Institute of Technology](https://be.linkedin.com/in/bajraktari-agron-94400b141), Austria
