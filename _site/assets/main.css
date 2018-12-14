@@ -32,7 +32,6 @@ p, blockquote, pre,
 ul, ol, dl, figure,
 .highlight {
   margin-bottom: 15px;
-  text-align: justify;
 }
 
 /**
@@ -348,7 +347,8 @@ table {
       font-size: 36px; } }
 
 .post-content {
-  margin-bottom: 30px; }
+  margin-bottom: 30px;
+  text-align: justify;}
   .post-content h2 {
     font-size: 32px; }
     @media screen and (max-width: 800px) {
