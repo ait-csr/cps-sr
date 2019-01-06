@@ -17,6 +17,7 @@ For questions about the workshop, please feel free to [contact the organizers](m
 
 # Technical Programme Committee
 
+* [Alie El-Din Mady, United Technologies Research Center](https://www.researchgate.net/profile/Alie_El_Din_Mady), Ireland
 * [Antonios Gouglidis, Lancaster University](http://www.lancaster.ac.uk/scc/about-us/people/antonios-gouglidis), United Kingdom
 * [Sebastian Fischmeister, University of Waterloo](https://uwaterloo.ca/embedded-software-group/people-profiles/sebastian-fischmeister), Canada
 * [Daisuke Mashima, Advanced Digital Sciences Center](https://adsc.illinois.edu/people/daisuke-mashima), Singapore
