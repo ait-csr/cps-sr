@@ -25,7 +25,7 @@ Topics of interest include, but are not limited to, the following aspects of CPS
 * Digital twins and security
 
 # Paper Submissions
-Papers are encouraged that present early research or position statements, which preferably include initial results, or mature (previously published) findings that could benefit from being discussed in a workshop setting. Submitted papers, written in English, should not exceed four pages in length. Please follow the ACM conference format guidelines and submit your work via the HotCRP submission system (link to follow). Please note the papers will not be published in a proceedings but will be made available via this website.
+Papers are encouraged that present early research or position statements, which preferably include initial results, or mature (previously published) findings that could benefit from being discussed in a workshop setting. Submitted papers, written in English, should not exceed four pages in length. Please follow the ACM conference format guidelines and submit your work via the [HotCRP submission system](https://cps-sr19.hotcrp.com/). Please note the papers will not be published in a proceedings but will be made available via this website.
 
 # Important Dates
 **Paper submission deadline:** 1st February 2019
