@@ -17,6 +17,7 @@ For questions about the workshop, please feel free to [contact the organizers](m
 
 # Technical Programme Committee
 
+* [Borzoo Bonakdarpour, Iowa State University](http://web.cs.iastate.edu/~borzoo/), USA
 * [Antonios Gouglidis, Lancaster University](http://www.lancaster.ac.uk/scc/about-us/people/antonios-gouglidis), United Kingdom
 * [Sebastian Fischmeister, University of Waterloo](https://uwaterloo.ca/embedded-software-group/people-profiles/sebastian-fischmeister), Canada
 * [Axel Legay, UCLouvain](https://scholar.google.com/citations?user=6sGLpJIAAAAJ&hl=en), Belgium
