@@ -30,7 +30,6 @@ For questions about the workshop, please feel free to [contact the organizers](m
 * [Niamh O'Mahony, Dell EMC Research](https://www.linkedin.com/in/nmomahony/), Ireland
 * [Miroslav Pajic, Duke University](http://people.duke.edu/~mp275/), USA
 * [André Teixiera, Uppsala University](http://www.signal.uu.se/Staff/at/at.html), Sweden
-*
 
 # Website
 * [Agron Bajraktari, AIT Austrian Institute of Technology](https://be.linkedin.com/in/bajraktari-agron-94400b141), Austria
