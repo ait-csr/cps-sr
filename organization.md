@@ -24,7 +24,7 @@ For questions about the workshop, please feel free to [contact the organizers](m
 * [Bernd Finkbeiner, University of Saarland](https://www.react.uni-saarland.de/people/finkbeiner.html), Germany
 * [Taylor T. Johnson, Vanderbilt University](http://www.taylortjohnson.com/), USA
 * [Axel Legay, UCLouvain](https://scholar.google.com/citations?user=6sGLpJIAAAAJ&hl=en), Belgium
-* Jianghai Li, Tsinghua University, China
+* [Jianghai Li, Tsinghua University](https://www.researchgate.net/profile/Jianghai_Li2), China
 * [Alie El-Din Mady, United Technologies Research Center](https://www.researchgate.net/profile/Alie_El_Din_Mady), Ireland
 * [Daisuke Mashima, Advanced Digital Sciences Center](https://adsc.illinois.edu/people/daisuke-mashima), Singapore
 * [Kieran McLaughlin, Queen's University Belfast](https://pure.qub.ac.uk/portal/en/persons/kieran-mclaughlin(31c4903b-a883-4ccd-8d7c-921e0612a887).html), UK
