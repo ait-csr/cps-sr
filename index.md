@@ -27,12 +27,14 @@ The workshop program will consist of invited presentations on hot topics in cybe
 <br/>
 
 ## News
+**04-02-19:** Submission deadline extended to 8th February 2019!
+
 **06-01-19:** [HotCRP Submission](https://cps-sr19.hotcrp.com/) system is open!
 
 **12-12-18:** Workshop website is available!
 
 ## Important Dates
-**Paper submission deadline:** 5th February 2019
+**Extended paper submission deadline:** 8th February 2019
 
 **Notification of acceptance:** 22nd February 2019
 
