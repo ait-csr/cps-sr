@@ -10,8 +10,8 @@ permalink: /programme/
 The full-day workshop will take place on 15th April, 2019.
 
 <table style="width:100%">
-  <col width="20%">
-  <col width="80%">
+  <col width="15%">
+  <col width="85%">
  <tr>
    <th>Time</th>
    <th>Session</th>
