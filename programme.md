@@ -44,7 +44,7 @@ The full-day workshop will take place on 15th April, 2019.
    <td>10:30 - 12:00</td>
    <td>
    <b>Session 2</b>
-   <p><em>[Edge Device Security for Critical Cyber Physical Systems](./assets/papers(cejka-cps-sr-2019.pdf)</em><br>
+   <p><em>[Edge Device Security for Critical Cyber Physical Systems](./assets/papers/cejka-cps-sr-2019.pdf)</em><br>
    S. Cejka, F. Knorr, F. Kintzler (Siemens AG Austria)
    </p>
    <p><em>Intrusion Detection of Networked Cyber-Physical Systems via Three-level Deep Packet Inspection</em><br>
