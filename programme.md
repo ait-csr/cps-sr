@@ -23,7 +23,7 @@ The full-day workshop will take place on 15th April, 2019. The agenda includes p
    <td><b>Registration</b></td>
  </tr>
  <tr>
-   <td>08:30 - 10:00</td>
+   <td>08:45 - 10:00</td>
    <td>
    <b>Session 1</b>
    <p><em>Workshop Welcome</em><br>
@@ -62,7 +62,7 @@ The full-day workshop will take place on 15th April, 2019. The agenda includes p
    </td>
  </tr>
  <tr>
-   <td>10:30 - 12:00</td>
+   <td>13:30 - 15:00</td>
    <td>
    <b>Session 3</b>
    <p><em>Panel Session: Hot Topics and Future Trends for CPS Security and Resilience</em>
