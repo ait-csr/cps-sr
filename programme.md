@@ -20,7 +20,7 @@ The full-day workshop will take place on 15th April, 2019.
  </tr>
  <tr>
    <td>07:00 - 08:30</td>
-   <td>Registration</td>
+   <td><b>Registration</b></td>
  </tr>
  <tr>
    <td>08:30 - 10:00</td>
@@ -104,4 +104,15 @@ The full-day workshop will take place on 15th April, 2019.
  </tr>
 </table>
 
-## Keynote Talk
+### Keynote Talk
+
+#### Challenges in Avoiding Process Anomalies in Critical Infrastructure
+
+Aditya Mathur
+Professor of Computer Science, Purdue University
+Professor and Founding Head of Pillar Information Systems Technology and Design
+Center Director, iTrust, Singapore University of Technology and Design
+
+**Abstract:** Industrial Control Systems (ICS) are found in critical infrastructure (CI) such as systems for water treatment, water distribution, power generation and distribution, and mass transportation. Prevention, detection, and post-detection control are three key elements of secure ICS design aimed at reliable, safe, and secure operation of a CI. An attacker, by disturbing  the normal operation of an ICS, could move the process under control into an anomalous state. Once in such a state, the process can lead to component damage, or even plant shutdown, as has been observed in widely reported attacks on various CI. In this talk we focus on the open question "How, and to what extent, can we avoid such process anomalies in the presence of cyber-physical attacks?" In an attempt to answer this question, we examine the mechanics of effecting such a move and design and experiment with an architecture and methods to prevent the process from becoming anomalous.
+
+**Biography:** Aditya Mathur is professor of Computer Science at Purdue University. He is also  professor and founding head of the Information Systems Technology and Design pillar at the Singapore University of Technology and Design (SUTD), and  Center Director of iTrust -- a center for research in cyber security. Aditya’s recent research contributions focus on the design of secure public infrastructure. As Center Director Aditya manages a 50+ group of researchers in cyber security and has led the design and operationalization of three fully operational research testbeds for water treatment, water distribution, and power generation, transmission, and distribution. Aditya is a co-inventor of Distributed Attack Detection (DAD) that makes use of invariants derived from plant design for detecting anomalies in process behavior that may arise due to cyber or physical attacks.
