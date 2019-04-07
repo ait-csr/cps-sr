@@ -7,7 +7,7 @@ title: Programme
 permalink: /programme/
 ---
 
-The full-day workshop will take place on 15th April, 2019.
+The full-day workshop will take place on 15th April, 2019. The agenda includes presentations on peer-reviewed workshop papers, a <a href="#keynote">keynote talk by Prof Aditya Mathur</a>, and a panel session on hot topics and challenges for cyber-physical systems security and resilience.
 
 <h3>Workshop Agenda</h3>
 
