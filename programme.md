@@ -108,13 +108,19 @@ The full-day workshop will take place on 15th April, 2019.
 
 <h4>Challenges in Avoiding Process Anomalies in Critical Infrastructure</h4>
 
-[Aditya Mathur](https://www.cs.purdue.edu/homes/apm/)
-
-Professor of Computer Science, Purdue University
-
-Professor and Founding Head of Pillar Information Systems Technology and Design
-
-Center Director, iTrust, Singapore University of Technology and Design
+<table border=0>
+<tr>
+  <td>
+    <img src="../apmSitting.gif" alt="Aditya Mathur Sitting">
+  </td>
+  <td>
+  <a href="https://www.cs.purdue.edu/homes/apm/">Aditya Mathur</a><br>
+  Professor of Computer Science, Purdue University<br>
+  Professor and Founding Head of Pillar Information Systems Technology and Design<br>
+  Center Director, iTrust, Singapore University of Technology and Design
+  </td>
+</tr>
+</table>
 
 **Abstract:** Industrial Control Systems (ICS) are found in critical infrastructure (CI) such as systems for water treatment, water distribution, power generation and distribution, and mass transportation. Prevention, detection, and post-detection control are three key elements of secure ICS design aimed at reliable, safe, and secure operation of a CI. An attacker, by disturbing  the normal operation of an ICS, could move the process under control into an anomalous state. Once in such a state, the process can lead to component damage, or even plant shutdown, as has been observed in widely reported attacks on various CI. In this talk we focus on the open question "How, and to what extent, can we avoid such process anomalies in the presence of cyber-physical attacks?" In an attempt to answer this question, we examine the mechanics of effecting such a move and design and experiment with an architecture and methods to prevent the process from becoming anomalous.
 
