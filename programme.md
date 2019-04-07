@@ -9,7 +9,7 @@ permalink: /programme/
 
 The full-day workshop will take place on 15th April, 2019.
 
-### Workshop Agenda
+<h3>Workshop Agenda</h3>
 
 <table style="width:100%">
   <col width="20%">
@@ -29,7 +29,7 @@ The full-day workshop will take place on 15th April, 2019.
    <p><em>Workshop Welcome</em><br>
    D. Ničković (AIT), H. Sandberg (KTH Royal Institute of Technology), P. Smith (AIT)
    </p>
-   <p><em>Keynote Talk: Challenges in Avoiding Process Anomalies in Critical Infrastructure</em><br>
+   <p><a href="#keynote">Keynote Talk: Challenges in Avoiding Process Anomalies in Critical Infrastructure</a><br>
    A. Mathur (Purdue University and Singapore University of Technology and Design)
    </p>
    </td>
@@ -104,9 +104,9 @@ The full-day workshop will take place on 15th April, 2019.
  </tr>
 </table>
 
-### Keynote Talk
+<h3 id="keynote">Keynote Talk</h3>
 
-#### Challenges in Avoiding Process Anomalies in Critical Infrastructure
+<h4>Challenges in Avoiding Process Anomalies in Critical Infrastructure</h4>
 
 [Aditya Mathur](https://www.cs.purdue.edu/homes/apm/)
 
