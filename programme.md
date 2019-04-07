@@ -111,7 +111,7 @@ The full-day workshop will take place on 15th April, 2019.
 <table style="border:0">
 <tr>
   <td>
-    <img src="..assets/apmSitting.gif" alt="Aditya Mathur Sitting">
+    <img src="../assets/apmSitting.gif" alt="Aditya Mathur Sitting">
   </td>
   <td>
   <a href="https://www.cs.purdue.edu/homes/apm/">Aditya Mathur</a><br>
