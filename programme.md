@@ -9,7 +9,7 @@ permalink: /programme/
 
 The full-day workshop will take place on 15th April, 2019.
 
-## Workshop Agenda
+### Workshop Agenda
 
 <table style="width:100%">
   <col width="20%">
@@ -67,10 +67,10 @@ The full-day workshop will take place on 15th April, 2019.
    <b>Session 3</b>
    <p><em>Panel Session: Hot Topics and Future Trends for CPS Security and Resilience</em>
    </p>
-   <p><em>Two-Way Coding and Attack Decoupling in Control Systems Under Injection Attacks</em><br>
+   <p><a href="../assets/papers/fang-cps-sr-2019.pdf">Two-Way Coding and Attack Decoupling in Control Systems Under Injection Attacks</a><br>
    S. Fang, K. Johansson, M. Skoglund, H. Sandberg (KTH Royal Institute of Technology), H. Ishii (Tokyo Institute of Technology)
    </p>
-   <p><em>State Consistencies for Cyber-Physical System Recovery</em><br>
+   <p><a href="../assets/papers/kong-cps-sr-2019.pdf">State Consistencies for Cyber-Physical System Recovery</a><br>
    F. Kong (Syracuse University), O. Sokolsky, J. Weimer, I. Lee (University of Pennsylvania)
    </p>
    </td>
@@ -85,13 +85,13 @@ The full-day workshop will take place on 15th April, 2019.
    <td>15:30 - 17:00</td>
    <td>
    <b>Session 4</b>
-   <p><em>Synthesizing Stealthy Reprogramming Attacks on Cardiac Devices</em><br>
+   <p><a href="../assets/papers/paoletti-cps-sr-2019.pdf">Synthesizing Stealthy Reprogramming Attacks on Cardiac Devices</a><br>
    N. Paoletti (Royal Holloway, University of London), Z. Jiang (ShanghaiTech University), M. Islam (Texas Tech University), H. Abbas, R. Mangharam (University of Pennsylvania), S. Lin, Z. Gruber, S. Smolka (Stony Brook University)
    </p>
-   <p><em>Security of Networked Control Systems: A Game-Theoretic Approach</em><br>
+   <p><a href="../assets/papers/pirani-cps-sr-2019.pdf">Security of Networked Control Systems: A Game-Theoretic Approach</a><br>
    M. Pirani, H. Sandberg (KTH Royal Institute of Technology)
    </p>
-   <p><em>Digital Implementation of Homomorphically Encrypted Feedback Control for Cyber-Physical Systems</em><br>
+   <p><a href="../assets/papers/tran-cps-sr-2019.pdf">Digital Implementation of Homomorphically Encrypted Feedback Control for Cyber-Physical Systems</a><br>
    J. Tran, F. Farokhi, M. Cantoni, I. Shames (University of Melbourne)
    </p>
    </td>
