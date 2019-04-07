@@ -45,13 +45,13 @@ The full-day workshop will take place on 15th April, 2019.
    <td>
    <b>Session 2</b>
    <p><em>Edge Device Security for Critical Cyber Physical Systems</em><br>
-   S. Cejka, F. Knorr, F. Kintzler
+   S. Cejka, F. Knorr, F. Kintzler (Siemens AG Austria)
    </p>
    <p><em>Intrusion Detection of Networked Cyber-Physical Systems via Three-level Deep Packet Inspection</em><br>
-   J. Li, W. Si, X. Huang
+   J. Li, W. Si, X. Huang (Tsinghua University)
    </p>
    <p><em>Secure and Resilient Rollout of Software Services in the Smart Grid</em><br>
-   E. Piatkowska, D. Umsonst, M. Chong, P. Smith
+   E. Piatkowska (AIT), D. Umsonst, M. Chong (KTH Royal Institute of Technology), P. Smith (AIT)
    </p>
    </td>
  </tr>
@@ -68,10 +68,10 @@ The full-day workshop will take place on 15th April, 2019.
    <p><em>Panel Session: Hot Topics and Future Trends for CPS Security and Resilience</em>
    </p>
    <p><em>Two-Way Coding and Attack Decoupling in Control Systems Under Injection Attacks</em><br>
-   S. Fang, K. Johansson, M. Skoglund, H. Sandberg, H. Ishii
+   S. Fang, K. Johansson, M. Skoglund, H. Sandberg (KTH Royal Institute of Technology), H. Ishii (Tokyo Institute of Technology)
    </p>
    <p><em>State Consistencies for Cyber-Physical System Recovery</em><br>
-   F. Kong, O. Sokolsky, J. Weimer, I. Lee
+   F. Kong (Syracuse University), O. Sokolsky, J. Weimer, I. Lee (University of Pennsylvania)
    </p>
    </td>
  </tr>
@@ -86,13 +86,13 @@ The full-day workshop will take place on 15th April, 2019.
    <td>
    <b>Session 4</b>
    <p><em>Synthesizing Stealthy Reprogramming Attacks on Cardiac Devices</em><br>
-   N. Paoletti, Z. Jiang, M. Islam, H. Abbas, R. Mangharam, S. Lin, Z. Gruber, S. Smolka
+   N. Paoletti (Royal Holloway, University of London), Z. Jiang (ShanghaiTech University), M. Islam (Texas Tech University), H. Abbas, R. Mangharam (University of Pennsylvania), S. Lin, Z. Gruber, S. Smolka (Stony Brook University)
    </p>
    <p><em>Security of Networked Control Systems: A Game-Theoretic Approach</em><br>
-   M. Pirani, H. Sandberg
+   M. Pirani, H. Sandberg (KTH Royal Institute of Technology)
    </p>
    <p><em>Digital Implementation of Homomorphically Encrypted Feedback Control for Cyber-Physical Systems</em><br>
-   J. Tran, F. Farokhi, M. Cantoni, I. Shames
+   J. Tran, F. Farokhi, M. Cantoni, I. Shames (University of Melbourne)
    </p>
    </td>
  </tr>
