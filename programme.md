@@ -71,4 +71,31 @@ The full-day workshop will take place on 15th April, 2019.
    </p>
    </td>
  </tr>
+ <tr>
+   <td>15:00 - 15:30</td>
+   <td>
+   <b>Coffee break</b>
+   </td>
+ </tr>
+ <tr>
+   <td>15:30 - 17:00</td>
+   <td>
+   <b>Session 4</b>
+   <p><em>Synthesizing Stealthy Reprogramming Attacks on Cardiac Devices</em><br>
+   N. Paoletti, Z. Jiang, M. Islam, H. Abbas, R. Mangharam, S. Lin, Z. Gruber, S. Smolka
+   </p>
+   <p><em>Security of Networked Control Systems: A Game-Theoretic Approach</em><br>
+   M. Pirani, H. Sandberg
+   </p>
+   <p><em>Digital Implementation of Homomorphically Encrypted Feedback Control for Cyber-Physical Systems</em><br>
+   J. Tran, F. Farokhi, M. Cantoni, I. Shames
+   </p>
+   </td>
+ </tr>
+ <tr>
+   <td>17:00</td>
+   <td>
+   <b>Workshop close</b>
+   </td>
+ </tr>
 </table>
