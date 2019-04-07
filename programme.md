@@ -58,7 +58,6 @@ The full-day workshop will take place on 15th April, 2019.
    </td>
  </tr>
  <tr>
- <tr>
    <td>10:30 - 12:00</td>
    <td>
    <b>Session 3</b>
