@@ -108,7 +108,7 @@ The full-day workshop will take place on 15th April, 2019.
 
 <h4>Challenges in Avoiding Process Anomalies in Critical Infrastructure</h4>
 
-<table border=0>
+<table style="border:0">
 <tr>
   <td>
     <img src="../apmSitting.gif" alt="Aditya Mathur Sitting">
