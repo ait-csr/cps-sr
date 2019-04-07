@@ -30,4 +30,46 @@ The full-day workshop will take place on 15th April, 2019.
    </p>
    </td>
  </tr>
+ <tr>
+   <td>10:00 - 10:30</td>
+   <td>
+   <b>Coffee break</b>
+   </td>
+ </tr>
+ <tr>
+   <td>10:30 - 12:00</td>
+   <td>
+   <b>Session 2</b>
+   <p><em>Edge Device Security for Critical Cyber Physical Systems</em><br>
+   S. Cejka, F. Knorr, F. Kintzler
+   </p>
+   <p><em>Intrusion Detection of Networked Cyber-Physical Systems via Three-level Deep Packet Inspection</em><br>
+   J. Li, W. Si, X. Huang
+   </p>
+   <p><em>Secure and Resilient Rollout of Software Services in the Smart Grid</em><br>
+   E. Piatkowska, D. Umsonst, M. Chong, P. Smith
+   </p>
+   </td>
+ </tr>
+ <tr>
+   <td>12:00 - 13:30</td>
+   <td>
+   <b>Lunch break</b>
+   </td>
+ </tr>
+ <tr>
+ <tr>
+   <td>10:30 - 12:00</td>
+   <td>
+   <b>Session 3</b>
+   <p><em>Panel Session: Hot Topics and Future Trends for CPS Security and Resilience</em>
+   </p>
+   <p><em>Two-Way Coding and Attack Decoupling in Control Systems Under Injection Attacks</em><br>
+   S. Fang, K. Johansson, M. Skoglund, H. Sandberg, H. Ishii
+   </p>
+   <p><em>State Consistencies for Cyber-Physical System Recovery</em><br>
+   F. Kong, O. Sokolsky, J. Weimer, I. Lee
+   </p>
+   </td>
+ </tr>
 </table>
