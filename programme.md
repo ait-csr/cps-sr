@@ -65,7 +65,9 @@ The full-day workshop will take place on 15th April, 2019. The agenda includes p
    <td>13:30 - 15:00</td>
    <td>
    <b>Session 3</b>
-   <p><em>Panel Session: Hot Topics and Future Trends for CPS Security and Resilience</em>
+   <p><em>Panel Session: Hot Topics and Future Trends for CPS Security and Resilience</em><br>
+   A. Mathur (Purdue University and Singapore University of Technology and Design)<br>
+   S. Fischmeister (University of Waterloo)
    </p>
    <p><a href="../assets/papers/fang-cps-sr-2019.pdf">Two-Way Coding and Attack Decoupling in Control Systems Under Injection Attacks</a><br>
    S. Fang, K. Johansson, M. Skoglund, H. Sandberg (KTH Royal Institute of Technology), H. Ishii (Tokyo Institute of Technology)
