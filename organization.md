@@ -23,6 +23,7 @@ For questions about the workshop, please feel free to [contact the organizers](m
 * [Sebastian Fischmeister, University of Waterloo](https://uwaterloo.ca/embedded-software-group/people-profiles/sebastian-fischmeister), Canada
 * [Bernd Finkbeiner, University of Saarland](https://www.react.uni-saarland.de/people/finkbeiner.html), Germany
 * [Taylor T. Johnson, Vanderbilt University](http://www.taylortjohnson.com/), USA
+* [Sandra König, AIT Austrian Institute of Technology](https://www.researchgate.net/profile/Sandra_Koenig), Austria
 * [Axel Legay, UCLouvain](https://scholar.google.com/citations?user=6sGLpJIAAAAJ&hl=en), Belgium
 * [Jianghai Li, Tsinghua University](https://www.researchgate.net/profile/Jianghai_Li2), China
 * [Alie El-Din Mady, United Technologies Research Center](https://www.researchgate.net/profile/Alie_El_Din_Mady), Ireland
