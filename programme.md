@@ -43,7 +43,7 @@ The full-day workshop will take place on 15th April, 2019. The agenda includes p
  <tr>
    <td>10:30 - 12:00</td>
    <td>
-   <b>Session 2</b> Chair: I. Shames (University of Melbourne)
+   <b>Session 2</b> (Chair: I. Shames, University of Melbourne)
    <p><a href="../assets/papers/cejka-cps-sr-2019.pdf">Edge Device Security for Critical Cyber Physical Systems</a><br>
    S. Cejka, F. Knorr, F. Kintzler (Siemens AG Austria)
    </p>
@@ -64,7 +64,7 @@ The full-day workshop will take place on 15th April, 2019. The agenda includes p
  <tr>
    <td>13:30 - 15:00</td>
    <td>
-   <b>Session 3</b> Chair: P. Smith (AIT)
+   <b>Session 3</b> (Chair: P. Smith, AIT)
    <p><em>Panel Session: Hot Topics and Future Trends for CPS Security and Resilience</em><br>
    A. Mathur (Purdue University and Singapore University of Technology and Design)<br>
    S. Fischmeister (University of Waterloo)
@@ -86,7 +86,7 @@ The full-day workshop will take place on 15th April, 2019. The agenda includes p
  <tr>
    <td>15:30 - 17:00</td>
    <td>
-   <b>Session 4</b> Chair: H. Sandberg (KTH Royal Institute of Technology)
+   <b>Session 4</b> (Chair: H. Sandberg, KTH Royal Institute of Technology)
    <p><a href="../assets/papers/paoletti-cps-sr-2019.pdf">Synthesizing Stealthy Reprogramming Attacks on Cardiac Devices</a><br>
    N. Paoletti (Royal Holloway, University of London), Z. Jiang (ShanghaiTech University), M. Islam (Texas Tech University), H. Abbas, R. Mangharam (University of Pennsylvania), S. Lin, Z. Gruber, S. Smolka (Stony Brook University)
    </p>
