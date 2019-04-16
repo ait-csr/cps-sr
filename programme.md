@@ -50,7 +50,7 @@ The full-day workshop will take place on 15th April, 2019. The agenda includes p
    <p><em>Intrusion Detection of Networked Cyber-Physical Systems via Three-level Deep Packet Inspection</em><br>
    J. Li, W. Si, X. Huang (Tsinghua University)
    </p>
-   <p><em>Secure and Resilient Rollout of Software Services in the Smart Grid</em><br>
+   <p><em>Secure and Resilient Rollout of Software Services in the Smart Grid</em> (<a href="../assets/2019/slides/paul-smith-cps-sr-2019.pdf">Slides</a>)<br>
    E. Piatkowska (AIT), D. Umsonst, M. Chong (KTH Royal Institute of Technology), P. Smith (AIT)
    </p>
    </td>
@@ -90,7 +90,7 @@ The full-day workshop will take place on 15th April, 2019. The agenda includes p
    <p><a href="../assets/papers/paoletti-cps-sr-2019.pdf">Synthesizing Stealthy Reprogramming Attacks on Cardiac Devices</a><br>
    N. Paoletti (Royal Holloway, University of London), Z. Jiang (ShanghaiTech University), M. Islam (Texas Tech University), H. Abbas, R. Mangharam (University of Pennsylvania), S. Lin, Z. Gruber, S. Smolka (Stony Brook University)
    </p>
-   <p><a href="../assets/papers/pirani-cps-sr-2019.pdf">Security of Networked Control Systems: A Game-Theoretic Approach</a><br>
+   <p><a href="../assets/papers/pirani-cps-sr-2019.pdf">Security of Networked Control Systems: A Game-Theoretic Approach</a> (<a href="../assets/2019/slides/mohammad-pirani-cps-sr-2019.pdf">Slides</a>)<br>
    M. Pirani, H. Sandberg (KTH Royal Institute of Technology)
    </p>
    <p><a href="../assets/papers/tran-cps-sr-2019.pdf">Digital Implementation of Homomorphically Encrypted Feedback Control for Cyber-Physical Systems</a> (<a href="../assets/2019/slides/iman-shames-cps-sr-2019.pdf">Slides</a>)<br>
