@@ -93,7 +93,7 @@ The full-day workshop will take place on 15th April, 2019. The agenda includes p
    <p><a href="../assets/papers/pirani-cps-sr-2019.pdf">Security of Networked Control Systems: A Game-Theoretic Approach</a><br>
    M. Pirani, H. Sandberg (KTH Royal Institute of Technology)
    </p>
-   <p><a href="../assets/papers/tran-cps-sr-2019.pdf">Digital Implementation of Homomorphically Encrypted Feedback Control for Cyber-Physical Systems</a><br>
+   <p><a href="../assets/papers/tran-cps-sr-2019.pdf">Digital Implementation of Homomorphically Encrypted Feedback Control for Cyber-Physical Systems</a> (<a href="../assets/2019/slides/iman-shames-cps-sr-2019.pdf">Slides</a>)<br>
    J. Tran, F. Farokhi, M. Cantoni, I. Shames (University of Melbourne)
    </p>
    </td>
