@@ -110,6 +110,8 @@ The full-day workshop will take place on 15th April, 2019. The agenda includes p
 
 <h4>Challenges in Avoiding Process Anomalies in Critical Infrastructure</h4>
 
+<p><a href="../assets/2019/slides/aditya-mathur-cps-sr-2019-keynote.pdf">Download the presentation slides</a></p>
+
 <table style="border:0">
 <tr>
   <td>
