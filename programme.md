@@ -29,7 +29,7 @@ The full-day workshop will take place on 15th April, 2019. The agenda includes p
    <p><em>Workshop Welcome</em><br>
    D. Ničković (AIT), H. Sandberg (KTH Royal Institute of Technology), P. Smith (AIT)
    </p>
-   <p><a href="#keynote">Keynote Talk: Challenges in Avoiding Process Anomalies in Critical Infrastructure</a><br>
+   <p><a href="#keynote">Keynote Talk: Challenges in Avoiding Process Anomalies in Critical Infrastructure</a> (<a href="../assets/2019/slides/aditya-mathur-cps-sr-2019-keynote.pdf">Slides</a>)<br>
    A. Mathur (Purdue University and Singapore University of Technology and Design)
    </p>
    </td>
@@ -47,7 +47,7 @@ The full-day workshop will take place on 15th April, 2019. The agenda includes p
    <p><a href="../assets/2019/papers/cejka-cps-sr-2019.pdf">Edge Device Security for Critical Cyber Physical Systems</a><br>
    S. Cejka, F. Knorr, F. Kintzler (Siemens AG Austria)
    </p>
-   <p><em>Intrusion Detection of Networked Cyber-Physical Systems via Three-level Deep Packet Inspection</em><br>
+   <p><em>Intrusion Detection of Networked Cyber-Physical Systems via Three-level Deep Packet Inspection</em> (<a href="../assets/2019/slides/jianghai-li-cps-sr-2019.pdf">Slides</a>)<br>
    J. Li, W. Si, X. Huang (Tsinghua University)
    </p>
    <p><em>Secure and Resilient Rollout of Software Services in the Smart Grid</em> (<a href="../assets/2019/slides/paul-smith-cps-sr-2019.pdf">Slides</a>)<br>
@@ -72,7 +72,7 @@ The full-day workshop will take place on 15th April, 2019. The agenda includes p
    <p><a href="../assets/2019/papers/fang-cps-sr-2019.pdf">Two-Way Coding and Attack Decoupling in Control Systems Under Injection Attacks</a><br>
    S. Fang, K. Johansson, M. Skoglund, H. Sandberg (KTH Royal Institute of Technology), H. Ishii (Tokyo Institute of Technology)
    </p>
-   <p><a href="../assets/2019/papers/kong-cps-sr-2019.pdf">State Consistencies for Cyber-Physical System Recovery</a><br>
+   <p><a href="../assets/2019/papers/kong-cps-sr-2019.pdf">State Consistencies for Cyber-Physical System Recovery</a> (<a href="../assets/2019/slides/fanxin-kong-cps-sr-2019.pdf">Slides</a>)<br>
    F. Kong (Syracuse University), O. Sokolsky, J. Weimer, I. Lee (University of Pennsylvania)
    </p>
    </td>
@@ -87,7 +87,7 @@ The full-day workshop will take place on 15th April, 2019. The agenda includes p
    <td>15:30 - 17:00</td>
    <td>
    <b>Session 4</b> (Chair: H. Sandberg, KTH Royal Institute of Technology)
-   <p><a href="../assets/2019/papers/paoletti-cps-sr-2019.pdf">Synthesizing Stealthy Reprogramming Attacks on Cardiac Devices</a><br>
+   <p><a href="../assets/2019/papers/paoletti-cps-sr-2019.pdf">Synthesizing Stealthy Reprogramming Attacks on Cardiac Devices</a> (<a href="../assets/2019/slides/nicola-paoletti-cps-sr-2019.pdf">Slides</a>)<br>
    N. Paoletti (Royal Holloway, University of London), Z. Jiang (ShanghaiTech University), M. Islam (Texas Tech University), H. Abbas, R. Mangharam (University of Pennsylvania), S. Lin, Z. Gruber, S. Smolka (Stony Brook University)
    </p>
    <p><a href="../assets/2019/papers/pirani-cps-sr-2019.pdf">Security of Networked Control Systems: A Game-Theoretic Approach</a> (<a href="../assets/2019/slides/mohammad-pirani-cps-sr-2019.pdf">Slides</a>)<br>
