@@ -27,9 +27,9 @@ The workshop program will consist of invited presentations on hot topics in cybe
 <br/>
 
 ## News
-**07-03-19:** Workshop programme is available inc. keynote talk!
+**23-04-2019:** Papers and slides are available for download on the agenda page!
 
-**04-02-19:** Submission deadline extended to 8th February 2019!
+**07-03-19:** Workshop programme is available inc. keynote talk!
 
 ## Important Dates
 **Extended paper submission deadline:** 8th February 2019
